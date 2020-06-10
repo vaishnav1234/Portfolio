@@ -1,0 +1,3 @@
+help() in interactive shell will show the help menu
+help(object) gives help for that menu
+help> keyword -will show all the list of keywords
